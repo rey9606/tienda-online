@@ -18,8 +18,8 @@ Esta es la implementación de una API RESTful para gestionar una tienda online, 
 
 ## Despliegue y Documentación
 
--   **URL de la API Desplegada**: `https://tienda-online-litf.onrender.com/` *(<-- ¡Reemplaza esto con tu URL real!)*
--   **Documentación Interactiva (Swagger)**: [`https://tienda-online-litf.onrender.com/api`](https://tu-proyecto-desplegado.onrender.com/api) *(<-- ¡Reemplaza esto con tu URL real!)*
+-   **URL de la API Desplegada**: `https://tienda-online-litf.onrender.com/` 
+-   **Documentación Interactiva (Swagger)**: [`https://tienda-online-litf.onrender.com/api`](https://tienda-online-litf.onrender.com/api) 
 
 ---
 
@@ -92,9 +92,9 @@ Esta es la implementación de una API RESTful para gestionar una tienda online, 
 
 ## Estructura de la API y Endpoints
 
-A continuación se describen los principales endpoints. Para una documentación completa e interactiva, por favor visita la [**documentación de Swagger**](https://tu-proyecto-desplegado.onrender.com/api).
+A continuación se describen los principales endpoints. Para una documentación completa e interactiva, por favor visita la [**documentación de Swagger**](https://tienda-online-litf.onrender.com/api).
 
-*(<-- ¡Reemplaza el enlace de arriba!)*
+
 
 ### Autenticación (`/auth`)
 
